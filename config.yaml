@@ -45,7 +45,7 @@ docusaurus:
       - Template-chapter: /build/make_assets/content/chapters/template-chapter/lecture/_site
     config_meta:
       title: Template Repo
-      url: gabrielaciuprina.github.io
+      url: https://gabrielaciuprina.github.io
       baseUrl: /ElectricalEngineering/
       onBrokenLinks: warn
       onBrokenMarkdownLinks: warn
